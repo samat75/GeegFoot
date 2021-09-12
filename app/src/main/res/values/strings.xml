@@ -1,3 +1,12 @@
-<resources>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
     <string name="app_name">GeegFoot</string>
+    <string name="hello_blank_fragment">Hello blank fragment
+    <padding android:bottom="4dp" android:left="4dp" android:right="4dp" android:top="4dp" />
+    </string>
+    <string name="enter_your_phone_number">Enter your phone
+        number</string>
+    <string name="phone_number_is_needed_for_authorization">Phone number is needed for authorization</string>
+    <string name="mobile_phone">Mobile phone</string>
+    <string name="_996_7053266">+996 7053266</string>
+    <string name="privacy_policy">Privacy policy</string>
 </resources>

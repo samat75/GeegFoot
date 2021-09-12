@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "811967411939",
+    "project_id": "geekfoot-def48",
+    "storage_bucket": "geekfoot-def48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811967411939:android:1712498281855f188ef7d6",
+        "android_client_info": {
+          "package_name": "com.example.geegfoot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811967411939-auuntotlgtob8om93q8uqloaj422hven.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geegfoot",
+            "certificate_hash": "0de8523dc02718151c757a6cac0679d5d30c631f"
+          }
+        },
+        {
+          "client_id": "811967411939-vi9teaerqrr2i86r78o8d3oc2ci1deha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASJv-ADCmkvR5gN1H2HIzEUFg0dw8mGFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811967411939-vi9teaerqrr2i86r78o8d3oc2ci1deha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
