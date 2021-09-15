@@ -18,7 +18,7 @@ class GeekSplash : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        return inflater.inflate(R.layout.geek_splash_fragment, container, false)
+        return inflater .inflate(R.layout.geek_splash_fragment, container, false)
     }
 
 }
